@@ -25,8 +25,8 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Sanika Chavan",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
+  title: "Project Management & Liasion Officer",
+  email: "sanikachavan7227@gmail.com",
   gitHub: "microsoft",
   instagram: "microsoft",
   linkedIn: "satyanadella",

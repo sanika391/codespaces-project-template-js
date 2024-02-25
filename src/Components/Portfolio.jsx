@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Spoon Share - GDSC Solution Challenge 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "SpoonShare: An app connecting users to share free food, donate, and access local jobs, supporting the UN's Zero Hunger goal.",
+    url: "spoonshare-meal.web.app",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Restaurant Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Using HTML, CSS, and PHP, a RESTAURANT MANAGEMENT SYSTEM 🍔🍨🧁 was developed, complete with a LIVE ORDER MANAGEMENT SYSTEM 🧇 for administrators and users. The integrated TABLE RESERVATION SYSTEM 📑, which optimizes the user experience, is a key innovation.",
+    url: "https://github.com/sanika391/Food-Ordering-system-with-Table-Reservation-Order-management-Facility",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "portfolio website crafted with HTML and JavaScript, showcasing my projects and skills in a dynamic and interactive format. Dive into my journey through technology with just a click!",
+    url: "sanika-chavan.vercel.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "EZY-Transit",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "With real-time updates and crowd management features, stay informed and optimize your commute like never before",
+    url: "https://github.com/shuence/EzyTranzit",
   },
 ];
 

@@ -61,7 +61,7 @@ const Footer = (props) => {
         }}
       >
         {email && (
-          <a href={`mailto:${email}`}>
+          <a href={`sanikachavan1806@gmail.com:${email}`}>
             <img src={envelopeIcon} alt="email" className="socialIcon" />
           </a>
         )}
@@ -71,13 +71,13 @@ const Footer = (props) => {
           </a>
         )}
         {gitHub && (
-          <a href={`https://github.com/${gitHub}`} target="_blank" rel="noopener noreferrer">
+          <a href={`https://github.com/sanika391${gitHub}`} target="_blank" rel="noopener noreferrer">
             <img src={gitHubIcon} alt="GitHub" className="socialIcon" />
           </a>
         )}
         {instagram && (
           <a
-            href={`https://www.instagram.com/${instagram}`}
+            href={`https://www.instagram.com/sanika391${instagram}`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -86,7 +86,7 @@ const Footer = (props) => {
         )}
         {linkedIn && (
           <a
-            href={`https://www.linkedin.com/in/${linkedIn}`}
+            href={`https://www.linkedin.com/in/sanika-chavan-52457b236?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app${linkedIn}`}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -99,13 +99,13 @@ const Footer = (props) => {
           </a>
         )}
         {twitter && (
-          <a href={`https://twitter.com/${twitter}`} target="_blank" rel="noopener noreferrer">
+          <a href={` https://twitter.com/Sanika391?t=A-AwhH1I-hdTCKFm-4oY-Q&s=08${twitter}`} target="_blank" rel="noopener noreferrer">
             <img src={twitterIcon} alt="Twitter" className="socialIcon" />
           </a>
         )}
         {youTube && (
           <a
-            href={`https://www.youtube.com/c/${youTube}`}
+            href={`https://youtube.com/@sanikachavan7846?si=o5CWsIZsndue1z2H${youTube}`}
             target="_blank"
             rel="noopener noreferrer"
           >
